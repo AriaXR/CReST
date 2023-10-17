@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{16D1BBBD-4C96-D404-5F09-4A863D135664}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CReST_Template",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
